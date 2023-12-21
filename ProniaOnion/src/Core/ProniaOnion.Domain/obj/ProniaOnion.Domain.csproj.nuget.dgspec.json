@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\İş masası\\ProniaWithAPI\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\İş masası\\ProniaWithAPI\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\İş masası\\ProniaWithAPI\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
         "projectName": "ProniaOnion.Domain",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\İş masası\\ProniaWithAPI\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\ProniaOnion.Domain.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\İş masası\\ProniaWithAPI\\ProniaOnion\\src\\Core\\ProniaOnion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
